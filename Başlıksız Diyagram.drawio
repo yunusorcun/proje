@@ -11,7 +11,7 @@
           <mxGeometry x="120" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6gv_Ad_W1AmOkQpmVhaD-4" value="1. değişken x&lt;div&gt;2.değişken y&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="130" width="120" height="80" as="geometry" />
+          <mxGeometry x="125" y="160" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6gv_Ad_W1AmOkQpmVhaD-5" value="x=55&lt;div&gt;y=65&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="110" y="250" width="120" height="60" as="geometry" />
@@ -34,7 +34,7 @@
         <mxCell id="6gv_Ad_W1AmOkQpmVhaD-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6gv_Ad_W1AmOkQpmVhaD-11" target="6gv_Ad_W1AmOkQpmVhaD-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6gv_Ad_W1AmOkQpmVhaD-11" value="Ort&amp;gt;=55" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6gv_Ad_W1AmOkQpmVhaD-11" value="Ort&amp;gt;=55 ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="350" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6gv_Ad_W1AmOkQpmVhaD-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6gv_Ad_W1AmOkQpmVhaD-13" target="6gv_Ad_W1AmOkQpmVhaD-15">
